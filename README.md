@@ -24,3 +24,9 @@ Oracle Fusion Cloud HCM
 Connect to Autonomous Database
 Use OCI Generative AI for semantic scoring
 Deploy as OCI Function
+
+## 🏗 Architecture Overview
+
+![Architecture Diagram](architecture.png)
+
+This diagram represents a conceptual AI-powered resume scoring workflow using Oracle Cloud Infrastructure services and potential integration with Oracle Fusion Cloud HCM.
